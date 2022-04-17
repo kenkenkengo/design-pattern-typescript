@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import HelloWorld from "./components/HelloWorld.vue";
+import Iterator from "./components/Iterator.vue";
 </script>
 
 <template>
-  <HelloWorld />
+  <Iterator />
 </template>
 
 <style></style>
